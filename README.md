@@ -63,7 +63,7 @@ The report simulates a real-world energy investment portfolio covering wind and 
 - Energy & infrastructure analytics
 
 ## Screenshots
-Screenshots of all pages are included in the `screenshots` folder for quick review.
+Screenshots of all pages are included in the `screenshots` folder for quick review. . I have also uploaded all pages together as a PDF file for convenience.
 
 ## PBIX File Access
 The Power BI (.pbix) file is available upon request for hiring managers and reviewers.
