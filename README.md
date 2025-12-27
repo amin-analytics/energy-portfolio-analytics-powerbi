@@ -69,7 +69,7 @@ Screenshots of all pages are included in the `screenshots` folder for quick revi
 The Power BI (.pbix) file is available upon request for hiring managers and reviewers.
 
 ## Author
-Amin
-- Energy & Business Intelligence Analyst  
+Amin,
+Energy & Business Intelligence Analyst  
 Helsinki, Finland  
 📧 amin.analytics1@gmail.com
